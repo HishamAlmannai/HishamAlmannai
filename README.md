@@ -1,4 +1,4 @@
-# Hello, 
+## Hello, 
 
 my Name is **_Hisham Almannai_**
    I'm based in Germany.  
@@ -6,10 +6,10 @@ my Name is **_Hisham Almannai_**
 I speak 
 * German 
 * English 
-   well,   
+   
+well,   
 * Arabic 
 * Spanish 
 
-poor.
-
-[HookMeUp](http://hisham.almannai.de)
+poor and learning
+* [JavaScript](https://de.wikipedia.org/wiki/JavaScript)
