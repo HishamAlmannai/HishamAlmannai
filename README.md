@@ -1,7 +1,6 @@
-## Hello, 
+### Hello, 
 
-my Name is **_Hisham Almannai_**
-   I'm based in Germany.  
+my Name is **_Hisham Almannai_** 
 
 I speak 
 * German 
