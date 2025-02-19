@@ -10,5 +10,6 @@ well,
 * Arabic 
 * Spanish 
 
-poor and learning
+learning
 * [JavaScript](https://de.wikipedia.org/wiki/JavaScript)
+* [TypeScript](https://www.typescriptlang.org/)
